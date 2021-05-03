@@ -7,6 +7,7 @@ permalink: /
 ---
 
 # Welcome to the XAMI Lab!
+
 {: .fs-9 }
 
 Introduction content
@@ -17,12 +18,13 @@ Introduction content
 ---
 
 ## About
-The Almost Matching Exactly Lab is a joint venture of the Departments of Computer Science and 
+
+The Almost Matching Exactly Lab is a joint venture of the Departments of Computer Science and
 Statistics at Duke University in Durham, North Carolina. Our goal is to develop and apply interpretable
 machine learning algorithms to estimate causal effects using observational data. In general, our
 algorithms match units with similar covariate distributions, creating high quality, exact or almost
 exact matches for treatment effect estimation. To learn more about how these algorithms work, visit
-our [algorithm overview](overview) page or read one of our [publications](publications). To begin 
+our [algorithm overview](overview) page or read one of our [publications](publications). To begin
 using one of our matching methods, choose a [software package](software) and get started!
 
 ## People
@@ -30,118 +32,129 @@ using one of our matching methods, choose a [software package](software) and get
 <table class="people">
   <thead>
     <tr>
-        <th class="d-large" colspan="3"><h3>Professors</h3></th>
-        <th class="d-small"><h3>Professors</h3></th>
+        <th class="d-large" colspan="3"><h3>Founders</h3></th>
+        <th class="d-small"><h3>Founders</h3></th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td>
-            <a href="https://users.cs.duke.edu/~sudeepa/">
-                <img src="./content/peoplephotos/SudeepaRoy_cropped.jpg"> <br/>
-                <h3>Sudeepa Roy</h3>
-                <span>Computer Science</span>
+            <a href="https://www.qut.edu.au/">
+                <img src="./assets/member/photos/Chun.jpeg"> <br/>
+                <h3>Dr. Chun Ouyang</h3>
+                <!-- If you need subtitile, using span tage to add it here -->
             </a>
         </td>
         <td>
-            <a href="https://users.cs.duke.edu/~cynthia/">
-                <img src="./content/peoplephotos/CynthiaRudin_cropped.jpg"> <br/>
-                <h3>Cynthia Rudin</h3>
-                <span>Computer Science</span>
+            <a href="https://www.qut.edu.au/">
+                <img src="./assets/member/photos/black_rz.png"> <br/>
+                <h3>Dr. Catarina Moreira</h3>
             </a>
         </td> 
         <td>
-            <a href="https://volfovsky.github.io/">
-                <img src="./content/peoplephotos/AlexanderVolfovsky_cropped.jpg"> <br/>
-                <h3>Alexander Volfovsky</h3>
-                <span>Statistics</span>
+            <a href="https://www.qut.edu.au/">
+                <img src="./assets/member/photos/Renuka.jpg"> <br/>
+                <h3>Dr. Renuka Sindhgatta</h3>
             </a>
         </td>
     </tr>
   </tbody>
   <thead>
     <tr>
-        <th class="d-large" colspan="3"><h3>Graduate Students</h3></th>
-        <th class="d-small"><h3>Graduate Students</h3></th>
+        <th class="d-large" colspan="3"><h3>Collaborators</h3></th>
+        <th class="d-small"><h3>Collaborators</h3></th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td>
-            <a href="https://nehargupta.github.io/">
-                <img src="./content/peoplephotos/NehaGupta_cropped.jpg"> <br/>
-                <h3>Neha Gupta</h3>
-                <span>Economics and Computer Science</span>
+            <a href="https://www.qut.edu.au/">
+                <img src="./assets/member/photos/Yue_Xu.jpeg"> <br/>
+                <h3>A\Prof. Yue Xu.</h3>
             </a>
         </td> 
         <td>
-            <a href="https://marcomorucci.com//bio/">
-                <img src="./content/peoplephotos/MarcoMorucci.jpg"> <br/>
-                <h3>Marco Morucci</h3>
-                <span>Political Science</span>
+            <a href="https://www.qut.edu.au/">
+                <img src="./assets/member/photos/Joquim Jorge.jpeg"> <br/>
+                <h3>Prof. Joaquim Jorge</h3>
             </a>
         </td>
         <td>
-            <a href="https://vittorioorlandi.github.io/">
-                <img src="./content/peoplephotos/VittorioOrlandi_cropped.jpg"> <br/>
-                <h3>Vittorio Orlandi</h3>
-                <span>Statistics</span>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://sites.google.com/view/harshparikh/">
-                <img src="./content/peoplephotos/HarshParikh_cropped.jpg"> <br/>
-                <h3>Harsh Parikh</h3>
-                <span>Computer Science</span>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.linkedin.com/in/xian-sun-9874a9199/">
-                <img src="./content/peoplephotos/XianSun_cropped.jpg"> <br/>
-                <h3>Xian Sun</h3>
-                <span>Computer Science</span>
-            </a>
-        </td> 
-        <td>
-            <a href="https://www.linkedin.com/in/musaidawan/">
-                <img src="./content/peoplephotos/MuhammadUsaidAwan_cropped.jpg"> <br/>
-                <h3>Muhammad Usaid Awan</h3>
-                <span>Economics</span>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.cs.duke.edu/people/graduates/705">
-                <img src="./content/peoplephotos/TianyuWang_cropped.jpg"> <br/>
-                <h3>Tianyu Wang</h3>
-                <span>Computer Science</span>
+            <a href="https://www.qut.edu.au/">
+                <img src="./assets/member/photos/Will.jpeg"> <br/>
+                <h3>Prof. Will van der Aalst</h3>
             </a>
         </td>
     </tr>
   </tbody>
   <thead>
     <tr>
-        <th class="d-large" colspan="3"><h3>Undergraduates</h3></th>
-        <th class="d-small"><h3>Undergraduates</h3></th>
+        <th class="d-large" colspan="3"><h3>HDR Students</h3></th>
+        <th class="d-small"><h3>HDR Students</h3></th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td>
-            <a href="https://www.linkedin.com/in/thomasjhowell">
-                <img src="./content/peoplephotos/ThomasHowell_cropped.jpg"> <br/>
-                <h3>Thomas Howell</h3>
-                <span>Computer Science and Mechanical Engineering</span>
+            <a href="https://www.qut.edu.au/">
+                <img src="./assets/member/photos/Mythreyi.jpeg"> <br/>
+                <h3>Mythreyi Velmurugan</h3>
             </a>
-        </td> 
+        </td>
         <td>
-            <a href="https://www.linkedin.com/in/angikarghosal/">
-                <img src="./content/peoplephotos/AngikarGhosal_cropped.jpg"> <br/>
-                <h3>Angikar Ghosal</h3>
-                <span>Computer Science</span>
+            <a href="https://www.qut.edu.au/">
+                <img src="./assets/member/photos/Leon.jpeg"> <br/>
+                <h3>Yu-Liang (Leon) Cho</h3>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.qut.edu.au/">
+                <img src="./assets/member/photos/kenny.jpeg"> <br/>
+                <h3>Peng (Kenny) Yu</h3>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.qut.edu.au/">
+                <img src="./assets/member/photos/Bemali.png"> <br/>
+                <h3>Bemali Wickramanayake</h3>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.qut.edu.au/">
+                <img src="./assets/member/photos/Jenny.jpg"> <br/>
+                <h3>Jia (Jenny) Wei</h3>
+            </a>
+        </td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+        <th class="d-large" colspan="3"><h3>Research Assistance</h3></th>
+        <th class="d-small"><h3>Research Assistance</h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>
+            <a href="https://www.qut.edu.au/">
+                <img src="./assets/member/photos/richard_hsieh.jpeg"> <br/>
+                <h3>Chihcheng (Richard) Hsieh</h3>
+            </a>
+        </td>
+    </tr>
+  </tbody>
+   <thead>
+    <tr>
+        <th class="d-large" colspan="3"><h3>Honors Student</h3></th>
+        <th class="d-small"><h3>Honors Student</h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>
+            <a href="https://www.qut.edu.au/">
+                <img src="./assets/member/photos/Zippo.jpeg"> <br/>
+                <h3>Zhipeng (Zippo) He</h3>
             </a>
         </td>
     </tr>
