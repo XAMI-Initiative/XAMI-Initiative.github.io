@@ -57,7 +57,7 @@ whitelist:
 #   - vendor/ruby/
 
 ### Global variables
-logo: 'https://www.pikpng.com/pngl/m/404-4040679_qut-logo-png-transparent-queensland-university-of-technology.png'
+logo: './assets/qut/qut_logo_t.png'
 # Aux links for the upper right navigation
 aux_links:
   "GitHub":
