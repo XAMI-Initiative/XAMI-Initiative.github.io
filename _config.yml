@@ -57,11 +57,11 @@ whitelist:
 #   - vendor/ruby/
 
 ### Global variables
-logo: './content/logos/logo_alt2.svg'
+logo: './content/logos/qut_logo_1.png'
 # Aux links for the upper right navigation
 aux_links:
   "GitHub":
-    - "https://github.com/almost-matching-exactly"
+    - "https://github.com/XAMI-Initiative"
 aux_links_new_tab: true
 # Color scheme
 color_scheme: blue
