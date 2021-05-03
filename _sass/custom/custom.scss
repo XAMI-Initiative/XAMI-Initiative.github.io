@@ -1,0 +1,79 @@
+table.overview tr {
+    td:first-child {
+        width: 20%;
+    }
+    a {
+        cursor: pointer;
+    }
+}
+
+table.people {
+    table-layout: fixed;
+    width: 100%;
+    tr {
+        border: none;
+        box-shadow: none;
+        td {
+            text-align: center;
+            vertical-align: top;
+            width: 100%;
+            border: none;
+            &:hover {
+                background: rgba(0,0,0,0.05);
+            }
+            a {
+                white-space: normal;
+                text-align: center;
+                width: 100%;
+            }
+        }
+    }
+    thead {
+        text-align: left !important;
+        border-top: 1px solid;
+        th {
+            border-left: none;
+            border-right: none;
+        }
+    }
+    a {
+        cursor: pointer;
+        display: inline-block;
+        text-decoration: none;
+        color: #5c5962;
+    }
+    img{
+        max-height: 200px;
+        height: auto;
+        width: auto;
+        border-radius: 5%;
+    }
+}
+
+@media screen and (min-width: 800px) and (max-width: 992px) {
+    table.people {
+        img {
+            max-height: 150px;
+        }
+    }
+}
+
+@media(max-width: 768px) {
+    table.people {
+        .d-large {
+            display: none !important;
+        }
+        td {
+            display: block;
+            a {
+                max-width: 250px;
+            }
+        }
+    }
+}
+
+@media(min-width: 768px) {
+    table.people .d-small {
+        display: none !important;
+    }
+}
