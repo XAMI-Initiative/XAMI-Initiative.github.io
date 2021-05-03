@@ -42,6 +42,7 @@ using one of our matching methods, choose a [software package](software) and get
             <a href="https://www.qut.edu.au/">
                 <img src="./assets/member/photos/Chun.jpeg"> <br/>
                 <h3>Dr. Chun Ouyang</h3>
+                <span></span>
                 <!-- If you need subtitile, using span tage to add it here -->
             </a>
         </td>
@@ -49,6 +50,7 @@ using one of our matching methods, choose a [software package](software) and get
             <a href="https://www.qut.edu.au/">
                 <img src="./assets/member/photos/black_rz.png"> <br/>
                 <h3>Dr. Catarina Moreira</h3>
+                <span></span>
             </a>
         </td> 
         <td>
@@ -113,6 +115,8 @@ using one of our matching methods, choose a [software package](software) and get
                 <h3>Peng (Kenny) Yu</h3>
             </a>
         </td>
+    </tr>
+    <tr>
         <td>
             <a href="https://www.qut.edu.au/">
                 <img src="./assets/member/photos/Bemali.png"> <br/>
