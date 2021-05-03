@@ -1,21 +1,29 @@
 ---
 layout: default
 title: Publications
-nav_order: 4
+nav_order: 3
 permalink: /publications
 ---
 
 # Publications
 
-- [Adaptive Hyper-box Matching for Interpretable Individualized Treatment Effect Estimation](https://arxiv.org/abs/2003.01805). UAI, 2020.\
-Marco Morucci, Vittorio Orlandi, Sudeepa Roy, Cynthia Rudin, Alexander Volfovsky
-- [Almost-Matching-Exactly for Treatment Effect Estimation Under Network Interference](https://arxiv.org/abs/2003.00964). AISTATS, 2020.\
-M. Usaid Awan, Marco Morucci, Vittorio Orlandi, Sudeepa Roy, Cynthia Rudin, Alexander Volfovsky
-- [Interpretable Almost-Matching-Exactly With Instrumental Variables](https://arxiv.org/abs/1906.11658). UAI, 2019.\
-M. Usaid Awan, Yameng Liu, Marco Morucci, Sudeepa Roy, Cynthia Rudin, Alexander Volfovsky
-- [MALTS: Matching After Learning to Stretch](https://arxiv.org/abs/1811.07415), 2019.\
-Harsh Parikh, Cynthia Rudin, Alexander Volfovsky
-- [Interpretable Almost Matching Exactly for Causal Inference](https://arxiv.org/abs/1806.06802). AISTATS, 2019.\
-Yameng Liu, Aw Dieng, Sudeepa Roy, Cynthia Rudin, Alexander Volfovsky
-- [FLAME: A Fast Large-scale Almost Matching Exactly Approach to Causal Inference](https://arxiv.org/abs/1707.06315), 2017.\
-Tianyu Wang, Marco Morucci, M. Usaid Awan, Yameng Liu, Sudeepa Roy, Cynthia Rudin, Alexander Volfovsky
+### Conferences
+
+- Mythreyi Velmurugan, Chun Ouyang, Catarina Moreira and Renuka Sindhgatta *XAI Fidelity for Predictive Process Analytics, In Proceedings of the 33rd International Conference on Advanced Information Systems Engineering (CAISE) Forum*, Melbourne, Australia, 2021
+
+- Renuka Sindhgatta, Chun Ouyang and Catarina Moreira, *Exploring interpretability for predictive process analytics, In Proceedings of the 18th International Conference on Service Oriented Computing (ICSOC)*, Dubai, UAE, 2020
+
+- Renuka Sindhgatta, Catarina Moreira, Chun Ouyang and Alistair Barros, *Interpretable Predictive Models for Business Processes, In Proceedings of the 18th International Conference on Business Process Management (BPM)*, Sevilla, Spain, 2020
+
+### Journals
+
+- Yu-Liang Chou, Catarina Moreira, Chun Ouyang, Peter Bruza and Joaquim Jorge, *Counterfactuals and Causability in Explainable Artificial Intelligence: Theory, Algorithms, and Applications*, Information Fusion, 2021 [Minor Revisions]
+
+
+- Renuka Sindhgatta, Kanika Goel, Sumit Kalra, Rohan Goel and Preeti Mutreja, *Evaluating User Trust with Machine Learning Explanations for Automated Diagnosis of COVID-19*, Information Fusion, 2021 [Minor Revisions]
+
+- Catarina Moreira, Yu-Liang Chou, Mythreyi Velmurugan, Chun Ouyang, Renuka Sindhgatta and Peter Bruza *LINDA-BN: An Interpretable Probabilistic Approach for Demystifying Black-box Predictive Models*, Decision Support Systems, 2021
+
+- Wei Tan, Prayag Tiwari, Hari Mohan Pandey, Catarina Moreira, and Amit Kumar Jaiswal *Multi-modal medical image fusion algorithm in the era of big data*, Neural Computing and Applications, 2020
+
+- Vikash Chouhan, Sanjay Kumar Singh, Aditya Khamparia, Deepak Gupta, Prayag Tiwari, Catarina Moreira, Robertas Damasevicius, Victor Hugo C. de Albuquerque *A Novel Transfer Learning Based Approach for Pneumonia Detection in Chest X-ray Images*, Applied Sciences, 10, 559, 2020.
