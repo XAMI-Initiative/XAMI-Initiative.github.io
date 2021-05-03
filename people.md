@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Home
+title: People
 nav_order: 2
-description: "QUT XAMI LAB"
-permalink: /
+permalink: /people
 ---
 
 
